@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "SEO Auditor Pro",
+  "short_name": "SEO Auditor",
+  "version": "1.0.0",
+  "description": "Professional SEO auditing tool. Analyze meta tags, headings, links, images, Core Web Vitals, schema, keywords, readability and more — all in one extension.",
+  "author": "Viraj Singh",
+  "permissions": ["activeTab", "scripting", "storage"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
